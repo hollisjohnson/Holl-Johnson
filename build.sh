@@ -1,0 +1,15 @@
+cat templates/top.html content/index.html templates/bottom.html > docs/index.html
+cat templates/top.html content/7-amazing.html templates/bottom.html > docs/7-amazing.html
+cat templates/top.html content/a-new-start.html templates/bottom.html > docs/a-new-start.html
+cat templates/top.html content/about.html templates/bottom.html > docs/about.html
+cat templates/top.html content/blog.html templates/bottom.html > docs/blog.html
+cat templates/top.html content/contact.html templates/bottom.html > docs/contact.html
+cat templates/top.html content/developers-of-color.html templates/bottom.html > docs/developers-of-color.html
+cat templates/top.html content/easier-way.html templates/bottom.html > docs/easier-way.html
+cat templates/top.html content/machine-learning.html templates/bottom.html > docs/machine-learning.html
+cat templates/top.html content/my-first.html templates/bottom.html > docs/my-first.html
+cat templates/top.html content/passive-income.html templates/bottom.html > docs/passive-income
+cat templates/top.html content/projects.html templates/bottom.html > docs/projects.html
+cat templates/top.html content/recruiting.html templates/bottom.html > docs/recruiting.html
+cat templates/top.html content/tapping-into.html templates/bottom.html > docs/tapping-into.html
+cat templates/top.html content/wireframes.html templates/bottom.html > docs/wireframes.html
